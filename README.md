@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Helen
-- 👀 I’m interested introducing myself into the Data Science World. 
+- 👋 Hi, My name is **Helen C. Peñate Rodríguez**
+- 👀 I’m introducing myself into the Data Science World. 
 - 🌱 I’m a Mathematitian and I'm currently in the last semester of a Master Program of Mathematic Education
 - 📫 You can contact by writing to helpenrod@gmail.com
 
